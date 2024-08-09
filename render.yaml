@@ -1,4 +1,4 @@
-services:
+services: +
   - type: web
     name: TOGE-MD-V2
     env: node
